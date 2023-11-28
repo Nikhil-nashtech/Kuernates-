@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: assigmentk8s-config
+data:
+    
+    #ENV_DISPLAY_TEXT: '<nikdjoidjk>' 
+    HOST_CONFIG: "0.0.0.0"
+
